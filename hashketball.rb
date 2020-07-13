@@ -1,3 +1,4 @@
 def game_hash
-  final = {}
+  final = {:home => {}, :away => {}}
+  
 end
